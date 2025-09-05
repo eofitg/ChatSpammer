@@ -1,0 +1,14 @@
+[
+{
+  "modid": "chatspammer",
+  "name": "Chat Spammer",
+  "description": "Allow you to spam your last chat message with a hotkey.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/eofitg/ChatSpammer",
+  "updateUrl": "https://github.com/eofitg/ChatSpammer/releases",
+  "authorList": ["eofitg"],
+  "credits": "",
+  "logoFile": ""
+}
+]
