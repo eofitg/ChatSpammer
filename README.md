@@ -2,7 +2,7 @@
 
 `forge-1.8.9`
 
-Allows you to repeatedly send (spam) your last chat message using a customizable hotkey.
+Allows you to repeatedly send (spam) your last chat message by using a customizable hotkey.
 
 ## Settings
 
